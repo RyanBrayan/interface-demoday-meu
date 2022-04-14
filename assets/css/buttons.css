@@ -73,7 +73,7 @@
 
 .buttonKnowMore:hover i {
     font-size: 16px;
-    color: #e23d4d;
+    color: #0295ca;
     margin: 2px 0 0;
 }    
 
@@ -87,5 +87,5 @@
 }
 
 .buttonContact:hover {
-    background: #e23d4d;    
+    background: #0295ca ;    
 }

@@ -1237,6 +1237,16 @@ textarea {
     max-width: 400px;
     position: absolute;
 }
+.iconeL {
+    position: relative;
+    left: 30%;
+}
+.iUsuarioB {
+    width: 36px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
 .carousel {
     overflow: hidden;
     width: 100%;
